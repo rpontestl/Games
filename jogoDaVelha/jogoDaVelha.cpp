@@ -1,12 +1,7 @@
+//Por Rafael Pontes
 #include <bits/stdc++.h>
 
 using namespace std;
-
-
-#define INF 0x3f3f3f3f
-#define LINF 0x3f3f3f3f3f3f3f3f
-
-typedef long long ll;
 
 char verifica(string tabela[]){
     char c = 'c';
